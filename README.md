@@ -14,6 +14,7 @@ CDN Url: ``` https://cdn.staticaly.com/gh/shidahuilang/hosts/main/hosts ```    `
 Windows/MacOS:  
 ```
 推荐使用 SwitchHosts
+https://switchhosts.vercel.app
 ```
 ![image](https://github.com/shidahuilang/hosts/raw/main/1.png)
 
